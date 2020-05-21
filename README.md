@@ -1,20 +1,20 @@
-# canō
+# BitByBit
 
-We made a website for the visually impaired. This site shares learning data for developing artificial intelligence that listens to sounds on behalf of the visually impaired.
+In this app, you chat anonymously. The reason I chose anonymously was that thinking about the other person only through conversation, without any prejudice or perception, would help make friends. And after the chat is over, the person will take a quiz about the other person, which the other person had made in advance. There is a score system in the app, and scores are given by calculating the number of words and chat time used while chatting. In addition, the number of problems corrected in the quiz of 3 questions is calculated and points are given. The scores given in this way can be checked on My Page, and the ranking system can be used to check your ranking in total. You can also divide your tier according to your score to see your current tier. You can check from the ranking if you are between 1st and 5th place.
 
 ## Motivation
 
-Now days many services are developed that recognize people's words. for example we have Siri or Bixby in smartphones and also Alexa from Amazon and Google assistants. However, being able to sense non-human sounds is much more challenging.
-Thus we sought to create a program that would help them by recognizing distinct sounds for them .artificial intelligence that we could teach to learn and differentiate between sounds. One of the problems we had was collecting sound samples, because there's a wide range of sounds and limited resources to high schoolers to solve this problem.
-We decided to create a sound sampling of social networking system through the homepage. People can upload samples and label them. To give people motivation to participate, we created a point rating system using the blockchain technology and we gave points to those who unloaded sound samples or to those who commented on them. They will be able to use the point delivery sites that we have made contracts with.
-when a sufficient amount of sound samples were collected, canō program can recognize sound to a certain extent can be helpful to people with hearing impairments in the future, in conjunction with smart phones or Arduino devices.
+The outbreak of corona virus changed our society in many ways. The biggest change is that people communicate primarily through online medium. It is impossible, at the moment, to physically meet up with friends and even, make new friends. In order to aid these difficulties and cure boredom, we created and app that enables chatting and solving quizzes with friends.
+
 
 ## Contributors
 
- * [Gordon](https://github.com/gordonsis) (Programmer)
- * [Royce](https://github.com/royce169) (Programmer)
- * [Ihyun](https://github.com/namihyun00941) (Programmer)
+ * [Seungyun](https://github.com/bbrian100716) (Programmer)
+ * [Junkyung](https://github.com/jun3027) (Programmer)
+ * [SeungChan](https://github.com/kevin02lee) (Programmer)
+ * [MoonHyuk](https://github.com/joshorjoshua) (Programmer)
+ * [Junseo](https://github.com/junlee1274) (Programmer)
 
 ## Youtube
 
-  [Youtube link](https://youtu.be/B15IEIpESII)
+  [Youtube link](https://youtu.be/)
